@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Elektrotechnika\semestr 7\ARM\current\Przerwania\przerwania.uvproj
+Project File Date:  11/22/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=1224 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+".\przerwania.axf" - 0 Errors, 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1224 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+".\przerwania.axf" - 0 Errors, 0 Warning(s).

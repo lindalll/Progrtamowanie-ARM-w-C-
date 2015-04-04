@@ -1,0 +1,1 @@
+.\programobowiazkowy.o: ProgramObowiazkowy.c
